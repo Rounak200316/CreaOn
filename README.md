@@ -28,4 +28,4 @@ NEXT_PUBLIC_UNSPLASH_ACCESS_KEY=
 GEMINI_API_KEY=
 ```
   
-Check out the live site: **https://havnly.onrender.com/listings**
+Check out the live site: **https://crea-on.vercel.app/**

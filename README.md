@@ -1,4 +1,4 @@
-# Full Stack AI Content Platform with Next JS, Tailwind, React Quill, ImageKit, Shadcn UI Tutorial 🔥🔥
+# Full Stack AI Content Platform with Next JS, Tailwind, React Quill, ImageKit, Shadcn UI 🔥🔥
 
 ### Make sure to create a `.env` file with following variables -
 

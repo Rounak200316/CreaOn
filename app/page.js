@@ -385,8 +385,11 @@ const Home = () => {
       <footer className="relative z-10 border-t py-8 px-4 sm:px-6">
         <div className="max-w-7xl mx-auto text-center">
           <p className="text-muted-foreground">
-            Made with ❤️ by{" "}
-            <span className="text-foreground font-semibold">RoadsideCoder</span>
+            Made with ❤️ and AI by{" "}
+            <span className="text-foreground font-semibold">Rounak Dey Sarkar</span>
+          </p>
+          <p className="text-muted-foreground">
+            <Link href="https://github.com/Rounak200316">GitHub</Link>{" "}|{" "}<Link href="https://www.linkedin.com/in/rounakdeysarkar/">LinkedIn</Link>
           </p>
         </div>
       </footer>
